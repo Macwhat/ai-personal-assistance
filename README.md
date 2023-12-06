@@ -11,9 +11,9 @@ You can talk to him and he can talk to you. You can also text him and he can als
 
 **Using ->**
 
-*HTML
-*CSS
-*JAVASCRIPT
+* HTML
+* CSS
+* JAVASCRIPT
 
 
 https://github.com/Macwhat/ai-personal-assistance/assets/116700271/971965a3-ecef-470d-97c6-3d0e3edaaa72
